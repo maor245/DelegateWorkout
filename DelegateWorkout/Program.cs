@@ -41,6 +41,10 @@
 
 //Main method - Client code
 
+
+// Hello from israel, Beit eleyezer
+
+
 StockExachangeMonitor stockExachangeMonitor = new StockExachangeMonitor();
 stockExachangeMonitor.PriceChangeHandler = ShowPrice;
 stockExachangeMonitor.Start();
